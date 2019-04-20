@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">SDA_Project</string>
+    <string name="device_button">Medical Device</string>
+    <string name="ongoing_work">Ongoing Work</string>
+    <string name="asset_num">Asset No.</string>
+    <string name="description">Description</string>
+    <string name="take_photo">Photo</string>
+    <string name="enter">Enter</string>
+    <string name="area">Area</string>
+    <string name="job">Job Type</string>
+    <string name="enter_details">Enter details of work on a device</string>
+
+
+    <string-array name="area_list">
+        <item>ICU</item>
+        <item>Theatre</item>
+        <item>Endoscopy</item>
+        <item>Emergency</item>
+    </string-array>
+
+    <string-array name="job_list">
+        <item>Service</item>
+        <item>QA</item>
+        <item>Repair</item>
+
+    </string-array>
+
+
+
+</resources>
